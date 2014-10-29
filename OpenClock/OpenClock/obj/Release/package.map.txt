@@ -1,0 +1,13 @@
+[Files]
+"C:\Users\evangelisto\Documents\Visual Studio 2013\Projects\OpenClock\OpenClock\bin\Release\AppxManifest.xml" "AppxManifest.xml"
+"C:\Users\evangelisto\Documents\Visual Studio 2013\Projects\OpenClock\OpenClock\bin\Release\OpenClock.exe" "OpenClock.exe"
+"C:\Users\evangelisto\Documents\Visual Studio 2013\Projects\OpenClock\packages\RadialColorPickerCV.1.2.8\lib\Color_Picker.dll" "Color_Picker.dll"
+"C:\Users\evangelisto\Documents\Visual Studio 2013\Projects\OpenClock\OpenClock\Assets\Logo.scale-100.png" "Assets\Logo.scale-100.png"
+"C:\Users\evangelisto\Documents\Visual Studio 2013\Projects\OpenClock\OpenClock\Assets\SmallLogo.scale-100.png" "Assets\SmallLogo.scale-100.png"
+"C:\Users\evangelisto\Documents\Visual Studio 2013\Projects\OpenClock\OpenClock\Assets\SplashScreen.scale-100.png" "Assets\SplashScreen.scale-100.png"
+"C:\Users\evangelisto\Documents\Visual Studio 2013\Projects\OpenClock\OpenClock\Assets\StoreLogo.scale-100.png" "Assets\StoreLogo.scale-100.png"
+"C:\Users\evangelisto\Documents\Visual Studio 2013\Projects\OpenClock\OpenClock\bin\Release\App.xbf" "App.xbf"
+"C:\Users\evangelisto\Documents\Visual Studio 2013\Projects\OpenClock\OpenClock\bin\Release\MainPage.xbf" "MainPage.xbf"
+"C:\Users\evangelisto\Documents\Visual Studio 2013\Projects\OpenClock\OpenClock\bin\Release\OpenClock.xr.xml" "OpenClock.xr.xml"
+"C:\Users\evangelisto\Documents\Visual Studio 2013\Projects\OpenClock\packages\RadialColorPickerCV.1.2.8\lib\Color_Picker\Themes\Generic.xaml" "Color_Picker\Themes\Generic.xaml"
+"C:\Users\evangelisto\Documents\Visual Studio 2013\Projects\OpenClock\OpenClock\bin\Release\resources.pri" "resources.pri"
